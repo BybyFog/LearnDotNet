@@ -1,0 +1,14 @@
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\bin\Debug\net8.0\orientaçãoobjetos.exe
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\bin\Debug\net8.0\orientaçãoobjetos.deps.json
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\bin\Debug\net8.0\orientaçãoobjetos.runtimeconfig.json
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\bin\Debug\net8.0\orientaçãoobjetos.dll
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\bin\Debug\net8.0\orientaçãoobjetos.pdb
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.AssemblyInfoInputs.cache
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.AssemblyInfo.cs
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.csproj.CoreCompileInputs.cache
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.dll
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\refint\orientaçãoobjetos.dll
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.pdb
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\orientaçãoobjetos.genruntimeconfig.cache
+C:\Projetos\orientaçãoobjetos\orientaçãoobjetos\obj\Debug\net8.0\ref\orientaçãoobjetos.dll

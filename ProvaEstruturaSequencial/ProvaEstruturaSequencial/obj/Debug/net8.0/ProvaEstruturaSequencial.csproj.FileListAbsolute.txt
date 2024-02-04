@@ -1,0 +1,14 @@
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.AssemblyInfo.cs
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\bin\Debug\net8.0\ProvaEstruturaSequencial.exe
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\bin\Debug\net8.0\ProvaEstruturaSequencial.deps.json
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\bin\Debug\net8.0\ProvaEstruturaSequencial.runtimeconfig.json
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\bin\Debug\net8.0\ProvaEstruturaSequencial.dll
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\bin\Debug\net8.0\ProvaEstruturaSequencial.pdb
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.dll
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\refint\ProvaEstruturaSequencial.dll
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.pdb
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ProvaEstruturaSequencial.genruntimeconfig.cache
+C:\Projetos\ProvaEstruturaSequencial\ProvaEstruturaSequencial\obj\Debug\net8.0\ref\ProvaEstruturaSequencial.dll
